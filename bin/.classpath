@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/ATUReporter_Selenium_testNG_5.5_BETA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/ATUTestRecorder_2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/bcpkix-jdk15on-1.64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/bcprov-jdk15on-1.64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/dec-0.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/docker-java-3.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/docker-java-api-3.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/docker-java-core-3.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/docker-java-transport-3.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/docker-java-transport-httpclient5-3.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/gson-2.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/httpclient5-5.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/httpcore5-5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/httpcore5-h2-5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/jackson-annotations-2.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/jackson-core-2.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/jackson-databind-2.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/jcl-over-slf4j-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/jcommander-1.82.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/jna-5.12.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/jquery-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/okio-1.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/org.testng.eclipse.maven_7.4.0.202106051955.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/org.testng.eclipse_7.4.0.202106051955.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/org.testng.source_7.4.0.r202105021533.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/org.testng_7.4.0.r202105021533.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/selenium-api-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/selenium-chrome-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/selenium-edge-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/selenium-firefox-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/selenium-ie-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/selenium-java-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/selenium-opera-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/selenium-remote-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/selenium-safari-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/selenium-support-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/slf4j-api-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/testng-7.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ponsundar.raj/eclipse-workspace/TestAutomation/lib/webdrivermanager-5.3.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

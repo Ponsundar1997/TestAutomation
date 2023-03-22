@@ -1,0 +1,4 @@
+set %projectlocation%=C:\Users\ponsundar.raj\eclipse-workspace\TestAutomation
+cd %projectlocation%
+set classpath= %projectlocation%\bin;%projectlocation%\lib\*
+java Org.TestNG.xml testng.xml
