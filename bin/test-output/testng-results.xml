@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[STEP1]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-03-21T12:14:12 IST" name="Testing Google Apps" finished-at="2023-03-21T12:19:26 IST" duration-ms="314734">
+    <groups>
+    </groups>
+    <test started-at="2023-03-21T12:14:12 IST" name="Regression" finished-at="2023-03-21T12:19:26 IST" duration-ms="314734">
+      <class name="src.src.TestOne">
+        <test-method signature="Testing()[pri:0, instance:src.src.TestOne@693fe6c9]" started-at="2023-03-21T12:14:12 IST" name="Testing" finished-at="2023-03-21T12:19:26 IST" duration-ms="314697" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[STEP1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Testing -->
+      </class> <!-- src.src.TestOne -->
+    </test> <!-- Regression -->
+  </suite> <!-- Testing Google Apps -->
+</testng-results>
